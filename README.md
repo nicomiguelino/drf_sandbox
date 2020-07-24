@@ -1,0 +1,3 @@
+# DRF Sandbox
+
+Just playing around with Django REST Framework, authentication, and stuff...
