@@ -1,0 +1,6 @@
+name: drf_sandbox
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+
