@@ -1,6 +1,9 @@
 name: drf_sandbox
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.8
-
+  - django
+  - djangorestframework
+  - httpie==2.1.0
